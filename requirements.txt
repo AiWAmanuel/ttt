@@ -8,3 +8,63 @@ plotly
 statsmodels
 missingno
 windrose
+# Core Libraries for Numerical and Statistical Analysis
+numpy
+pandas
+scipy
+statsmodels
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+ggplot
+dash
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+torch
+keras
+
+# Data Cleaning and Preprocessing
+openpyxl
+pyjanitor
+missingno
+dask
+polars
+
+# Big Data and Distributed Computing
+pyspark
+vaex
+
+# Time Series Analysis
+prophet
+pycaret
+
+# Deep Learning
+fastai
+
+# Data Engineering and ETL
+sqlalchemy
+pyarrow
+apache-beam
+pandas-profiling
+great-expectations
+
+# Deployment and Integration
+flask
+fastapi
+streamlit
+gradio
+
+# Miscellaneous Tools
+tqdm
+joblib
+pydantic
+
